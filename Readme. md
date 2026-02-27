@@ -1,0 +1,32 @@
+# Leads-tracker
+
+
+
+## 📝 Description
+
+Leads-tracker is a streamlined productivity tool designed to help professionals capture and manage potential business leads efficiently. This application provides a centralized platform for organizing contact information, tracking follow-up status, and ensuring that no networking opportunity is overlooked. With its intuitive interface and focus on seamless data management, it empowers sales professionals and entrepreneurs to maintain a robust pipeline and convert prospects into long-term clients.
+
+## 📁 Project Structure
+
+```
+.
+├── g.js
+├── icon.png
+├── index.html
+├── manifest.json
+└── style.css
+```
+
+## 👥 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** the repository
+2. **Clone** your fork: `git clone https://github.com/rajlakheradev-creator/Leads-tracker.git`
+3. **Create** a new branch: `git checkout -b feature/your-feature`
+4. **Commit** your changes: `git commit -am 'Add some feature'`
+5. **Push** to your branch: `git push origin feature/your-feature`
+6. **Open** a pull request
+
+Please ensure your code follows the project's style guidelines and includes tests where applicable.
+
